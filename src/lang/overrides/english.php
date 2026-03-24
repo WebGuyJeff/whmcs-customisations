@@ -43,9 +43,9 @@ $_LANG['readyforquestions'] = "If you have questions regarding web hosting and s
 $_LANG['homepage']['pagetitle'] = 'Personalised Website Hosting and Domains';
 $_LANG['homepage']['metadescription'] = 'WordPress website hosting and domain names with dedicated support.';
 
-// This breaks the site!
-//$_LANG['checkout']['pagetitle'] = 'Place your order';
-
 // Custom - these do not exist in official WHMCS themes.
 $_LANG['custom']['only'] = "Only";
 $_LANG['custom']['startFree'] = "Start for FREE";
+
+// Page Titles.
+$_LANG['globalsystemname'] = "Home";
